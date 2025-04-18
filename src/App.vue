@@ -12,7 +12,11 @@ import Quote from "./components/Quote.vue";
         >Narges Abbasi</a
       >
       and is open-source on
-      <a href="https://github.com/Narges-abbasii" target="_blank">GitHub</a>.
+      <a
+        href="https://github.com/Narges-abbasii/quote-generator"
+        target="_blank"
+        >GitHub</a
+      >.
     </p>
   </footer>
 </template>
